@@ -29,7 +29,7 @@ GENERAL CLASSES
 /*-------------------------------------------------
 HEADER CLASSES
 -------------------------------------------------*/
-.header-wrap{ background:#000 url(../images/bg2.jpg) repeat-x; height:63px; width:100%; }
+.header-wrap{ background:#000 repeat-x; height:63px; width:100%; }
 .logo{ width:360px; margin:0 auto;}
 .logo h1{ color:#ffffff; font-size:45px; font-weight: normal;}
 
